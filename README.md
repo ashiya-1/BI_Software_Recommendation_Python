@@ -1,5 +1,7 @@
 # Power_BI_Software_Recommendation_Python
 
+Overview:
+
   In this project,  conducted a detailed analysis of user ratings for Power BI software. 
 
   Conducted data cleaning, including handling null values and duplicates, and explored data using descriptive statistics and then performed exploratory data analysis and visualization.
