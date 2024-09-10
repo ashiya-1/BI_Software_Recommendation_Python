@@ -1,4 +1,4 @@
-# Power_BI_Software_Recommendation_Python
+# BI_Software_Recommendation_Python
 
 Overview:
 
